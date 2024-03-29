@@ -5,7 +5,7 @@ main {
   flex-direction: row;
   align-items: center;
   justify-content: center;
-  height: 100%;
+  height: 112%;
 }
 
 section {
@@ -26,6 +26,7 @@ section {
 .form-section {
   flex-grow: 0.3;
   padding: 0 35px;
+  
   img {
     margin-bottom: 30px;
   }
